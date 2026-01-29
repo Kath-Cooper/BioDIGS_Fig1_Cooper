@@ -1,7 +1,7 @@
 ---
-title: "BioDIGS_Announcement_Map"
+title: "BioDIGS_Figure_1"
 author: "Katherine I. Cooper"
-date: "2025-12-09"
+date: "2026-01-29"
 output: html_document
 ---
 
@@ -414,3 +414,4 @@ ggplot(Soil_Long, aes(x=Values)) +
   geom_histogram() +
   facet_wrap("Element", scales = "free")
 ```
+
