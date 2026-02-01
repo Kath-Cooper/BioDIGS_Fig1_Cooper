@@ -1,6 +1,6 @@
-README BIODIGS Fig1. JAN29_2026 
+README BIODIGS Fig1. FEB02_2026
 
-01-29-2026: Current code in the repository is lacking the DMV region. This will be updated shortly. 
+Updates for Feb 02: Added the insets for the DMV region, labels on the donut plot to include the number of sample sites per read type, and a histogram for the elemental data.
 
 DATA: Data is slightly modified from the received versions of excel sheets--removed nonessential legends, renamed data sheets, etc. for simpler R compatibility. Uploaded data includes the modified excel sheets from BioDIGs. The ecoregion data from the EPA National Lakes Assessment is too large for GitHub repositories, therefore should be downloaded using the following link: https://drive.google.com/drive/folders/19idwmx2MuD2UhmwP-ZwlMJLNOjJ6FZv1?usp=drive_link 
 
@@ -14,6 +14,9 @@ CODE: Code is formatted in an R Markdown (.rmd) file. This allows the user to ru
 
 To limit errors when running, install all packages using the tiny yellow warning at the top of the document when it is first opened.
 
+PDF: The LaTeX PDF in the repository is the associated 'knitted' document for the R Markdown notebook. 
+
 
 COMPUTING: The code was scripted and ran on a Lenovo Yogo from 2023 with 15.7 G of memory. 
+
 
